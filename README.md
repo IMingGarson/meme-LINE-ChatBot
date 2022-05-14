@@ -12,11 +12,6 @@ Once added, type "meme" (without double quotations) in chat and an image carouse
 
 Select memes you like and to see what happens :D.
 
-# TODO
-
-A user can select one meme and type any content then send those data to backend.
-Once requested, a customized meme shall be returned to the user.
-
 # Disclaimer
 
 This project is meant for self-practice and not for commercial use.
